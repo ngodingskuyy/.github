@@ -1,0 +1,13 @@
+{
+  "name": "ngodingskuyy-github-org",
+  "version": "1.0.0",
+  "description": "NgodingSkuyy GitHub Organization Repository",
+  "scripts": {
+    "contributors:add": "node scripts/inject-contributors.js add",
+    "contributors:generate": "node scripts/inject-contributors.js",
+    "contributors:init": "npx all-contributors init"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.26.1"
+  }
+}

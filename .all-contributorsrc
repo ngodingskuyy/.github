@@ -1,0 +1,55 @@
+{
+  "files": [
+    "profile/README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ilhamridho04",
+      "name": "Ilham Ridho Asysyifa'a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45212532?v=4",
+      "profile": "https://ilhamridho04.github.io/",
+      "contributions": [
+        "code",
+        "bug",
+        "maintenance",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "MHasanudin",
+      "name": "iChiversa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144352547?v=4",
+      "profile": "https://github.com/MHasanudin",
+      "contributions": [
+        "code",
+        "design",
+        "maintenance",
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "koceng182",
+      "name": "koceng182",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224233148?v=4",
+      "profile": "https://github.com/koceng182",
+      "contributions": [
+        "doc",
+        "code",
+        "design",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "NgodingSkuyy",
+  "projectOwner": "ngodingskuyy",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributorsSortAlphabetically": false
+}
